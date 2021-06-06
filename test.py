@@ -1,4 +1,5 @@
 print("Hello")
 print("I am Sung Min")
 print(1/0)
+print("123456")
 print("Bye")
